@@ -63,3 +63,13 @@ body{
     color: #fff; 
     opacity: 1;
 }
+
+.carousel-caption {
+    padding-bottom: 50px;
+}
+
+#carouselButton {
+    right:0px;
+    position: absolute;
+    bottom: 0px;
+}
